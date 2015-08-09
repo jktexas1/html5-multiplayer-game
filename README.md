@@ -5,3 +5,5 @@ The game supports up to 4 players, but does not handle disconnections. So, it wi
 connect and will break when a 5th player tries to connect.
 
 This is part of a hobby project of mine so the bugs will eventually be fixed later but there aren't any plans to fix yet.
+
+Credit for the game idea goes to Edward Herbert on youtube, I only take credit the multiplayer element.
